@@ -1,10 +1,11 @@
 #include<stdio.h>
 
-/*
- * main - prints alphabet in lowercase'
- * followed by a new line,except q and e
+/**
+ * main - main function
+ *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	char ch = 'a';
